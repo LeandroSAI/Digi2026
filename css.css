@@ -1,49 +1,39 @@
+body {
+    font-family: Arial;
+    background-color: #eeeeee;
+    margin: 40px;
+}
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>PÁGINA DE LEANDRO</title>
-    <link rel="stylesheet" href="estilos.css">
-</head>
+h5 {
+    color: gray;
+}
 
-<body>
+h1 {
+    color: darkblue;
+    text-align: center;
+}
 
-    <h5>PÁGINA LEANDRITO GITHUB</h5>
+h2 {
+    color: #333333;
+}
 
-    <h1>Competiciones de remo</h1>
+ul {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
 
-    <ul>
-        <h2>Ver competiciones y resultados</h2>
+li {
+    margin: 10px;
+}
 
-        <li>
-            <a href="https://www.youtube.com/watch?v=DniKM5SKe6c">
-                Ver competidores
-            </a>
-        </li>
+a {
+    color: blue;
+    text-decoration: none;
+}
 
-        <li>
-            <a href="https://www.diariovasco.com/remo/clasificacion/">
-                Ver resultados
-            </a>
-        </li>
-    </ul>
-
-    <ul>
-        <h2>Insertar competiciones y resultados</h2>
-
-        <li>
-            <a href="https://federemo.org/es/">
-                Nueva competición
-            </a>
-        </li>
-
-        <li>
-            <a href="https://www.euskolabelliga.com/">
-                Nuevo resultado
-            </a>
-        </li>
-    </ul>
-
-</body>
-</html>
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
