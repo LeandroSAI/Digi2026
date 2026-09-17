@@ -1,1 +1,49 @@
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>PÁGINA DE LEANDRO</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+
+    <h5>PÁGINA LEANDRITO GITHUB</h5>
+
+    <h1>Competiciones de remo</h1>
+
+    <ul>
+        <h2>Ver competiciones y resultados</h2>
+
+        <li>
+            <a href="https://www.youtube.com/watch?v=DniKM5SKe6c">
+                Ver competidores
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.diariovasco.com/remo/clasificacion/">
+                Ver resultados
+            </a>
+        </li>
+    </ul>
+
+    <ul>
+        <h2>Insertar competiciones y resultados</h2>
+
+        <li>
+            <a href="https://federemo.org/es/">
+                Nueva competición
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.euskolabelliga.com/">
+                Nuevo resultado
+            </a>
+        </li>
+    </ul>
+
+</body>
+</html>
