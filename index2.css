@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Ejercicios de Lenguajes de Marcas</title>
+</head>
+<body>
+
+    <header>
+        <h1>Lenguajes de Marcas</h1>
+        <p>Índice de ejercicios académicos y prácticas de desarrollo web</p>
+    </header>
+
+    <main>
+        <!-- Sección principal de ejercicios ordenados -->
+        <section class="contenedor-ejercicios">
+            <h2>Prácticas Desarrolladas</h2>
+            
+            <ul class="lista-marcas">
+                <li>
+                    <a href="Ejercicios_Alvarez_Leandro/ejercicio2.html">
+                        <span>Ejercicio 02</span> — Práctica Inicial / Estructura básica
+                    </a>
+                </li>
+                <li>
+                    <a href="Ejercicios_Alvarez_Leandro/ejercicio-3.html">
+                        <span>Ejercicio 03</span> — Formateo de texto y etiquetas
+                    </a>
+                </li>
+                <li>
+                    <a href="Ejercicios_Alvarez_Leandro/ejercicio-4.html">
+                        <span>Ejercicio 04</span> — Listas y enlaces multimedia
+                    </a>
+                </li>
+                <li>
+                    <a href="Ejercicios_Alvarez_Leandro/ejercicio-5.html">
+                        <span>Ejercicio 05</span> — Tablas y organización de datos
+                    </a>
+                </li>
+                <li>
+                    <a href="Ejercicios_Alvarez_Leandro/ejercicio-6.html">
+                        <span>Ejercicio 06</span> — Formularios y captura de datos
+                    </a>
+                </li>
+                <li>
+                    <a href="Ejercicios_Alvarez_Leandro/ejercicio-7.html">
+                        <span>Ejercicio 07</span> — Integración semántica avanzada HTML5
+                    </a>
+                </li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Desarrollado por Leandro Álvarez</p>
+    </footer>
+
+</body>
+</html>
